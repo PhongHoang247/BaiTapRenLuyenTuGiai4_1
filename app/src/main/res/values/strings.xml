@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BaiTapRenLuyenTuGiai4_1</string>
+    <string-array name="arrSanPham">
+        <item>Galaxy J2</item>
+        <item>Galaxy J3</item>
+        <item>Galaxy J3 Pro</item>
+        <item>Galaxy J5</item>
+        <item>Galaxy J7</item>
+        <item>Galaxy J2 Prime</item>
+        <item>Galaxy J5 Prime</item>
+        <item>Galaxy J7 Prime</item>
+        <item>Galaxy C5</item>
+        <item>Galaxy C7</item>
+        <item>Galaxy C9 Pro</item>
+        <item>Galaxy A3</item>
+        <item>Galaxy A5</item>
+        <item>Galaxy A7</item>
+        <item>Galaxy A9</item>
+        <item>Galaxy Note 4</item>
+        <item>Galaxy Note 5</item>
+        <item>Galaxy S6</item>
+        <item>Galaxy S6 Edge</item>
+        <item>Galaxy S7</item>
+        <item>Galaxy S7 Edge</item>
+        <item>Galaxy S8</item>
+        <item>Galaxy S8 Plus</item>
+    </string-array>
+</resources>
